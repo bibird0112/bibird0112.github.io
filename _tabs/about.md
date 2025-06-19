@@ -4,5 +4,8 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+## Debache Raphaël
+Hi ! I am Raphaël a french student at [Enseirb-Matmeca]( https://enseirb-matmeca.bordeaux-inp.fr/fr ){:target="_blank"}.   
+Currently in the final year of my Msc in Telecommunications, I am specializing in Image, Signal Learning, and Communication.
+
+I am also looking for a 6-months internship abroad and working on expanding my professional network. Feel free to download my CV and share it, anys help is grantly appreciated!
